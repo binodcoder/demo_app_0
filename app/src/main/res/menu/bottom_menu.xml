@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_first"
+        android:title="FIRST"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+
+                />
+    <item
+        android:id="@+id/menu_second"
+        android:enabled="true"
+        android:title="SECOND"
+        android:icon="@drawable/ic_baseline_add_ic_call_24"
+        />
+    <item
+        android:id="@+id/menu_third"
+        android:enabled="true"
+        android:title="THIRD"
+        android:icon="@drawable/ic_baseline_adb_24"
+        />
+
+</menu>
